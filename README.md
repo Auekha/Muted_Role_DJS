@@ -10,4 +10,4 @@ this helps you to delete messages.
  
  npm install discord.js
 
-To return the old role you have to put the same commands but in reverse.
+- To return the old role you have to put the same commands but in reverse.
